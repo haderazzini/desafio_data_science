@@ -9,5 +9,5 @@ Uso das bibliotecs:
 
 Comandos de instalação inclusos no ipynb:
 
-  !pip install chart_studio
+  !pip install chart_studio <br>
   !pip install plotly==4.3.0
