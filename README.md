@@ -7,6 +7,7 @@ Uso das bibliotecs:
 - plotly
 - numpy
 
-Comandos de instalação inclusos no ipynb
-!pip install chart_studio
-!pip install plotly==4.3.0
+Comandos de instalação inclusos no ipynb:
+
+  !pip install chart_studio
+  !pip install plotly==4.3.0
